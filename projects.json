@@ -1,0 +1,9 @@
+﻿[
+    {
+        "title": "test-title",
+        "folder": "test-folder",
+        "author": "test-author (not mandatory)",
+        "year": "test year",
+        "status": 1
+    }
+]
