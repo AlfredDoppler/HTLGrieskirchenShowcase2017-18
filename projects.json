@@ -1,9 +1,9 @@
 ﻿[
     {
-        "title": "test-title",
-        "folder": "test-folder",
-        "author": "test-author (not mandatory)",
-        "year": "test year",
-        "status": 1
+        "title": "SchoolFight",
+        "folder": "Schoolfight",
+        "author": "Maximilian Schwarz",
+        "year": "2018",
+        "status": 0
     }
 ]
