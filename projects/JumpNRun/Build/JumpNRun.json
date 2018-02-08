@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "JumpNRun.data.unityweb",
+"asmCodeUrl": "JumpNRun.asm.code.unityweb",
+"asmMemoryUrl": "JumpNRun.asm.memory.unityweb",
+"asmFrameworkUrl": "JumpNRun.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
