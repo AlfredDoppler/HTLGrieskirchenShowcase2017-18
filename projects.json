@@ -5,5 +5,14 @@
         "author": "test-author (not mandatory)",
         "year": "test year",
         "status": 1
+    },
+     
+    {
+        "title": "ösly!mania",
+        "folder": "ösly_mania_build",
+        "author": "Lukas Hofwimmer",
+        "year": "2017-2018",
+        "status": -1
     }
+
 ]
