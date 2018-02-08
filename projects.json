@@ -1,9 +1,9 @@
 ﻿[
     {
-        "title": "test-title",
-        "folder": "test-folder",
-        "author": "test-author (not mandatory)",
-        "year": "test year",
-        "status": 1
+        "title": "2D_RPG",
+        "folder": "2D_RPG",
+        "author": "mgruendlinger",
+        "year": "2017-18",
+        "status": 0
     }
 ]
