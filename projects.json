@@ -1,9 +1,9 @@
 ﻿[
     {
-        "title": "test-title",
-        "folder": "test-folder",
-        "author": "test-author (not mandatory)",
-        "year": "test year",
+        "title": "JumpNRun",
+        "folder": "JumpNRun",
+        "author": "Michael Wagner",
+        "year": "2018",
         "status": 1
     }
 ]
