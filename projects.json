@@ -5,5 +5,12 @@
         "author": "Michael Wagner",
         "year": "2018",
         "status": 1
+    },
+     {
+        "title": "Pokémon Fallout",
+        "folder": "PokémonFallout",
+        "author": "Robert Ortner",
+        "year": "2018",
+        "status": 0
     }
 ]
