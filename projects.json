@@ -54,5 +54,12 @@
          "author": "Florian Hintermaier",
          "year": "2018",
          "status": 0
-    }
+    },
+	{
+	"title": "ZombieShooter",
+	"folder": "ZombieShooterWebGL",
+	"author": "Christian Lindner",
+	"year": "2018",
+	"status": 0
+	}
 ]
