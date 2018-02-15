@@ -19,5 +19,12 @@
 	"author" "Raphael Panic",
 	"year": "2018",
 	"status": 1
+    },
+    {
+	 "title": "FGMOBA",
+         "folder": "FGMOBA",
+         "author": "Stefan Lehner",
+         "year": "2018",
+         "status": 0
     }
 ]
