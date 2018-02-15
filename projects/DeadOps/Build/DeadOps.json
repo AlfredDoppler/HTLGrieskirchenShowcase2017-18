@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "DeadOps.data.unityweb",
+"asmCodeUrl": "DeadOps.asm.code.unityweb",
+"asmMemoryUrl": "DeadOps.asm.memory.unityweb",
+"asmFrameworkUrl": "DeadOps.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

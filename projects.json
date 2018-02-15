@@ -5,5 +5,12 @@
         "author": "test-author (not mandatory)",
         "year": "test year",
         "status": 1
+    },
+    {
+        "title": "DeadOpsArcade",
+        "folder": "MyDeadOpsArcade",
+        "author": "Lukas Kaisermayr",
+        "year": "2018",
+        "status": 0
     }
 ]
