@@ -6,6 +6,13 @@
         "year": "2018",
         "status": 1
     },
+	{
+        "title": "Schoolfight",
+        "folder": "SchoolFight",
+        "author": "Maximilian Schwarz",
+        "year": "2018",
+        "status": 0
+    },
      {
         "title": "Pokémon Fallout",
         "folder": "PokémonFallout",
