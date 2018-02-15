@@ -26,6 +26,7 @@
 	"author": "Lukas Ratzenböck",
 	"year": "2018",
 	"status": 0
+	},
     {
 	 "title": "FGMOBA",
          "folder": "FGMOBA",
@@ -39,4 +40,13 @@
         "author": "Andreas Zauner",
         "year": "2018",
         "status": 0
+		},
+		{
+		"title": "Super Splasher Bruhs",
+		"folder": "SSB",
+		"author": "Benedikt Simetsberger",
+		"year": "2018",
+		"info": "A very good 2d platform based fighting game",
+		"status": "1"
+	}
 ]
