@@ -1,4 +1,4 @@
-﻿[
+[
     {
         "title": "JumpNRun",
         "folder": "JumpNRun",
@@ -48,5 +48,27 @@
 		"year": "2018",
 		"info": "A very good 2d platform based fighting game",
 		"status": "1"
+	},
+{
+        "title": "CupKopf",
+        "folder": "CupKopfWebGl",
+        "author": "Daniel Etzinger",
+        "year": "2018",
+        "status": 0
+	}
+   },
+	 {
+	 "title": "IGPG",
+         "folder": "IGPGWebGL",
+         "author": "Florian Hintermaier",
+         "year": "2018",
+         "status": 0
+    },
+	{
+	"title": "ZombieShooter",
+	"folder": "ZombieShooterWebGL",
+	"author": "Christian Lindner",
+	"year": "2018",
+	"status": 0
 	}
 ]

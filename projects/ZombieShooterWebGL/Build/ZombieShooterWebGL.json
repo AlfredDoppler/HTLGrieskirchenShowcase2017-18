@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "ZombieShooterWebGL.data.unityweb",
+"asmCodeUrl": "ZombieShooterWebGL.asm.code.unityweb",
+"asmMemoryUrl": "ZombieShooterWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "ZombieShooterWebGL.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
