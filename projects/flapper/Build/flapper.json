@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "flapper.data.unityweb",
+"asmCodeUrl": "flapper.asm.code.unityweb",
+"asmMemoryUrl": "flapper.asm.memory.unityweb",
+"asmFrameworkUrl": "flapper.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
