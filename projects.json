@@ -97,5 +97,12 @@
         "author": "Adrian Haiser",
         "year": "2018",
         "status": 1
+    },
+	{
+        "title": "ElShrooms",
+        "folder": "ElShrooms",
+        "author": "Reidinger Julia",
+        "year": "2018",
+        "status": 1
     }
 ]
