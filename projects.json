@@ -90,5 +90,12 @@
         "author": "Roman Groiss",
         "year": "2018",
         "status": 0
+    },
+	{
+        "title": "SuperRaveBoy",
+        "folder": "SuperRaveBoyWeb",
+        "author": "Adrian Haiser",
+        "year": "2018",
+        "status": 1
     }
 ]
