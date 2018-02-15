@@ -39,4 +39,12 @@
         "author": "Andreas Zauner",
         "year": "2018",
         "status": 0
+   },
+	 {
+	 "title": "IGPG",
+         "folder": "IGPGWebGL",
+         "author": "Florian Hintermaier",
+         "year": "2018",
+         "status": 0
+    }
 ]
