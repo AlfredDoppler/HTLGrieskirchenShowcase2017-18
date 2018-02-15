@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "MegaDario.data.unityweb",
+"asmCodeUrl": "MegaDario.asm.code.unityweb",
+"asmMemoryUrl": "MegaDario.asm.memory.unityweb",
+"asmFrameworkUrl": "MegaDario.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
