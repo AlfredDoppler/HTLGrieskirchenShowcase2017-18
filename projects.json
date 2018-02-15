@@ -12,5 +12,12 @@
         "author": "Robert Ortner",
         "year": "2018",
         "status": 0
+    },
+    {
+	"title": "Space Odysee",
+	"folder": "SpaceOdysee",
+	"author" "Raphael Panic",
+	"year": "2018",
+	"status": 1
     }
 ]
