@@ -16,15 +16,21 @@
     {
 	"title": "Space Odysee",
 	"folder": "SpaceOdysee",
-	"author" "Raphael Panic",
+	"author": "Raphael Panic",
 	"year": "2018",
 	"status": 1
     },
-	{
+    {
+	 "title": "FGMOBA",
+         "folder": "FGMOBA",
+         "author": "Stefan Lehner",
+         "year": "2018",
+         "status": 0
+    },
+   {
         "title": "oss",
         "folder": "oss",
         "author": "Andreas Zauner",
         "year": "2018",
         "status": 0
-    }
 ]
