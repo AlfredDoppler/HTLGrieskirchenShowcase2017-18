@@ -19,5 +19,12 @@
 	"author" "Raphael Panic",
 	"year": "2018",
 	"status": 1
+    },
+	{
+        "title": "oss",
+        "folder": "oss",
+        "author": "Andreas Zauner",
+        "year": "2018",
+        "status": 0
     }
 ]
