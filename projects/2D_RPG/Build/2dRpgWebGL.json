@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "2dRpgWebGL.data.unityweb",
+"asmCodeUrl": "2dRpgWebGL.asm.code.unityweb",
+"asmMemoryUrl": "2dRpgWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "2dRpgWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
