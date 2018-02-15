@@ -26,5 +26,12 @@
          "author": "Stefan Lehner",
          "year": "2018",
          "status": 0
-    }
-]
+    },
+	 {
+		 "title": "ZombieShooter",
+		 "folder": "ZombieShooter",
+		 "author": "Stefan Lehner",
+		 "year": "2018",
+		 "status": 0
+	 }
+ ]
