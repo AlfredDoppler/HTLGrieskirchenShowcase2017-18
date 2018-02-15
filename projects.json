@@ -20,6 +20,12 @@
 	"year": "2018",
 	"status": 1
     },
+	{
+	"title": "Mega Dario",
+	"folder": "MegaDario",
+	"author": "Lukas Ratzenböck",
+	"year": "2018",
+	"status": 0
     {
 	 "title": "FGMOBA",
          "folder": "FGMOBA",
