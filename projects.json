@@ -118,5 +118,12 @@
 		"author": "Ingrid Lehner",
 		"year": "2018",
 		"status": 1
+	},
+	{
+		"title": "BlockDodger",
+		"folder": "BlockDogerWebBuild",
+		"author": "LukasSchlogaZareh",
+		"year": "2018",
+		"status": 1
 	}
 ]
