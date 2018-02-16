@@ -145,8 +145,8 @@
                         $project.find(".project-name").text(current.title);
                         $project.find(".project-author").text(current.author);
                         $project.find(".project-year").text(current.year);
-                        //$project.find(".project-link").attr("href", $project.find(".project-link").attr("href") + current.year + "/" + current.folder + "/");
-                        $project.find(".project-link").attr("href", $project.find(".project-link").attr("href") + "/" + current.folder + "/");
+                        $project.find(".project-link").attr("href", $project.find(".project-link").attr("href") + current.year + "/" + current.folder + "/");
+                        //$project.find(".project-link").attr("href", $project.find(".project-link").attr("href") + "/" + current.folder + "/");
                         if (current.info) {
                             $project.find(".project-info").get(0).disabled = false;
                             $project.find(".project-info").attr("data-info", current.info);
