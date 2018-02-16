@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BlockDogerWebBuild.data.unityweb",
+"asmCodeUrl": "BlockDogerWebBuild.asm.code.unityweb",
+"asmMemoryUrl": "BlockDogerWebBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "BlockDogerWebBuild.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
