@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "BF2DExport.data.unityweb",
+"asmCodeUrl": "BF2DExport.asm.code.unityweb",
+"asmMemoryUrl": "BF2DExport.asm.memory.unityweb",
+"asmFrameworkUrl": "BF2DExport.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
