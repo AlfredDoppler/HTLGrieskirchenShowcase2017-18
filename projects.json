@@ -1,129 +1,129 @@
-[
+﻿[
     {
         "title": "JumpNRun",
         "folder": "JumpNRun",
         "author": "Michael Wagner",
-        "year": "2018",
+        "year": "2017_WS",
         "status": 1
     },
 	{
         "title": "Schoolfight",
         "folder": "SchoolFight",
         "author": "Maximilian Schwarz",
-        "year": "2018",
+        "year": "2017_WS",
         "status": 0
     },
      {
         "title": "Pokémon Fallout",
         "folder": "PokémonFallout",
         "author": "Robert Ortner",
-        "year": "2018",
+        "year": "2017_WS",
         "status": 0
     },
     {
 	"title": "Space Odysee",
 	"folder": "SpaceOdysee",
 	"author": "Raphael Panic",
-	"year": "2018",
+	"year": "2017_WS",
 	"status": 1
     },
 	{
 	"title": "Mega Dario",
 	"folder": "MegaDario",
 	"author": "Lukas Ratzenböck",
-	"year": "2018",
+	"year": "2017_WS",
 	"status": 0
 	},
     {
 	 "title": "FGMOBA",
          "folder": "FGMOBA",
          "author": "Stefan Lehner",
-         "year": "2018",
+         "year": "2017_WS",
          "status": 0
     },
    {
         "title": "oss",
         "folder": "oss",
         "author": "Andreas Zauner",
-        "year": "2018",
+        "year": "2017_WS",
         "status": 0
 		},
-		{
-		"title": "Super Splasher Bruhs",
-		"folder": "SSB",
-		"author": "Benedikt Simetsberger",
-		"year": "2018",
-		"info": "A very good 2d platform based fighting game",
-		"status": "1"
-	},
+{
+	"title": "Super Splasher Bruhs",
+	"folder": "SSB",
+	"author": "Benedikt Simetsberger",
+	"year": "2017_WS",
+	"info": "A very good 2d platform based fighting game",
+	"status": "1"
+},
 {
         "title": "CupKopf",
         "folder": "CupKopfWebGl",
         "author": "Daniel Etzinger",
-        "year": "2018",
+        "year": "2017_WS",
         "status": 0
 	},
 	 {
 	 "title": "IGPG",
          "folder": "IGPGWebGL",
          "author": "Florian Hintermaier",
-         "year": "2018",
+         "year": "2017_WS",
          "status": 0
     },
 	{
 	"title": "ZombieShooter",
 	"folder": "ZombieShooterWebGL",
 	"author": "Christian Lindner",
-	"year": "2018",
+	"year": "2017_WS",
 	"status": 0
 	},
      {
         "title": "Realistic Imunsystem",
         "folder": "Realistic_Imunsystem",
         "author": "Stefan Rupertsberger",
-        "year": "2018",
+        "year": "2017_WS",
         "status": 0
     },
      {
         "title": "FLAPPER_BYRD",
         "folder": "flapper",
         "author": "Roman Groiss",
-        "year": "2018",
+        "year": "2017_WS",
         "status": 0
     },
 	{
         "title": "SuperRaveBoy",
         "folder": "SuperRaveBoyWeb",
         "author": "Adrian Haiser",
-        "year": "2018",
+        "year": "2017_WS",
         "status": 1
     },
 	{
         "title": "ElShrooms",
         "folder": "ElShrooms",
         "author": "Reidinger Julia",
-        "year": "2018",
+        "year": "2017_WS",
         "status": 1
     },
 	{
         "title": "2D_RPG",
         "folder": "2D_RPG",
         "author": "Marcus Gründlinger",
-        "year": "2018",
+        "year": "2017_WS",
         "status": 0
 },
-	{
-		"title": "Haunting_School",
-		"folder": "Haunting_School_WGL",
-		"author": "Ingrid Lehner",
-		"year": "2018",
-		"status": 1
-	},
+{
+	"title": "Haunting_School",
+	"folder": "Haunting_School_WGL",
+	"author": "Ingrid Lehner",
+	"year": "2017_WS",
+	"status": 1
+},
     {  
         "title": "BottleFlip2D",
         "folder": "BF2DExport",
-        "author": "Rumänenswag",
-        "year": "2018",
+        "author": "--censored-- AD",
+        "year": "2017_WS",
         "info": "des game is lit",
         "status": "0"
     },
@@ -131,14 +131,14 @@
         "title": "BlockDodger",
         "folder": "BlockDogerWebBuild",
         "author": "LukasSchlogaZareh",
-        "year": "2018",
+        "year": "2017_WS",
         "status": "1"
     },
 	{
-		"title": "TwinStickShooter",
+	"title": "TwinStickShooter",
         "folder": "TwinStickShooter",
         "author": "Danirami",
-        "year": "2018",
+        "year": "2017_WS",
         "status": "1"
 	}
 ]
