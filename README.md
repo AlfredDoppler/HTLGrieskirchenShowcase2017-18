@@ -2,8 +2,9 @@
 # Showcase 2017-18
 
 
-====================
 Click here to open the projects:
+
+====================
 # [**List of projects**](https://AlfredDoppler.github.io/HTLGrieskirchenShowcase2017-18/)
 ====================
 
