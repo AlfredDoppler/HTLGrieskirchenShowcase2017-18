@@ -166,5 +166,13 @@
 	"year": "2017_WS",
 	"info": "Incomplete top down Danmaku with story",
         "status": "0"
+    },
+    {  
+        "title": "Penthouse",
+        "folder": "Penthouse",
+        "author": "Michael Duschek",
+        "year": "2018_SS",
+        "info": "An Architecture Simulator",
+        "status": "1"
     }
 ]
