@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WebGL Digimon.data.unityweb",
+"asmCodeUrl": "WebGL Digimon.asm.code.unityweb",
+"asmMemoryUrl": "WebGL Digimon.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL Digimon.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
