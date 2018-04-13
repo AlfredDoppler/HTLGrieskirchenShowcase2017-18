@@ -8,6 +8,14 @@
         "status": 0
     },
     {
+        "title": "Digimon",
+        "folder": "WebGL Digimon",
+        "author": "Philip Frauscher, Sebastian Mandl",
+        "year": "2018_SS",
+	    "info": "WebGL version not operating as levels are not found",
+        "status": -1
+    },
+    {
         "title": "JumpNRun",
         "folder": "JumpNRun",
         "author": "Michael Wagner",
