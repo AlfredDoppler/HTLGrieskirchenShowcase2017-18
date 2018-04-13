@@ -1,5 +1,13 @@
 ﻿[
     {
+        "title": "SweeperMine",
+        "folder": "SweeperMine",
+        "author": "David Märzendorfer",
+        "year": "2017_SS",
+	"info": "works in Edge",
+        "status": 0
+    },
+    {
         "title": "PinkBoxShooter",
         "folder": "PinkBoxShooterFirstStatus",
         "author": "Martin Reisinger, Samuel Köpf, David Märzendorfer",
