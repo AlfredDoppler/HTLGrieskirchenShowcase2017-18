@@ -1,5 +1,5 @@
 ﻿[
-	{
+    {
         "title": "PinkBoxShooter",
         "folder": "PinkBoxShooterFirstStatus",
         "author": "Martin Reisinger, Samuel Köpf, David Märzendorfer",
@@ -7,7 +7,7 @@
 	"info": "works in Edge",
         "status": 0
     },
-	{
+    {
         "title": "JumpNRun",
         "folder": "JumpNRun",
         "author": "Michael Wagner",
@@ -15,14 +15,14 @@
 	"info": "works in Chrome,Edge,FF",
         "status": 1
     },
-	{
+    {
         "title": "Schoolfight",
         "folder": "Schoolfight",
         "author": "Maximilian Schwarz",
         "year": "2017_WS",
         "status": 0
     },
-     {
+    {
         "title": "Pokémon Fallout",
         "folder": "PokémonFallout",
         "author": "Robert Ortner",
@@ -38,14 +38,14 @@
 	"info": "works in Chrome,Edge,FF",
 	"status": 1
     },
-	{
+    {
 	"title": "Mega Dario",
 	"folder": "MegaDario",
 	"author": "Lukas Ratzenböck",
 	"year": "2017_WS",
 	"info": "works in Chrome,Edge,FF",
 	"status": 0
-	},
+    },
     {
 	 "title": "FGMOBA",
          "folder": "FGMOBA",
@@ -54,89 +54,89 @@
 	 "info": "WebGL cannot be server for multiplayer games",
          "status": -1
     },
-   {
+    {
         "title": "oss",
         "folder": "oss",
         "author": "Andreas Zauner",
         "year": "2017_WS",
         "status": 0
-		},
-{
+    },
+    {
 	"title": "Super Splasher Bruhs",
 	"folder": "SSB",
 	"author": "Benedikt Simetsberger",
 	"year": "2017_WS",
 	"info": "A very good 2d platform based fighting game; works in Chrome,Edge,FF",
 	"status": "1"
-},
-{
+    },
+    {
         "title": "CupKopf",
         "folder": "CupKopfWebGl",
         "author": "Daniel Etzinger",
         "year": "2017_WS",
         "info": "fehlt?",
         "status": 0
-	},
-	 {
+     },
+     {
 	 "title": "IGPG",
          "folder": "IGPGWebGL",
          "author": "Florian Hintermaier",
          "year": "2017_WS",
          "status": 0
-    },
-	{
+      },
+      {
 	"title": "ZombieShooter",
 	"folder": "ZombieShooterWebGL",
 	"author": "Christian Lindner",
 	"year": "2017_WS",
 	"status": 0
-	},
-     {
+      },
+      {
         "title": "Realistic Imunsystem",
         "folder": "Realistic_Imunsystem",
         "author": "Stefan Rupertsberger",
         "year": "2017_WS",
         "status": 0
-    },
+     },
      {
         "title": "FLAPPER_BYRD",
         "folder": "flapper",
         "author": "Roman Groiss",
         "year": "2017_WS",
         "status": 0
-    },
-	{
+      },
+      {
         "title": "SuperRaveBoy",
         "folder": "SuperRaveBoyWeb",
         "author": "Adrian Haiser",
         "year": "2017_WS",
 	"info": "works in Chrome,Edge,FF",
         "status": 1
-    },
-	{
+      },
+      {
         "title": "ElShrooms",
         "folder": "ElShrooms",
         "author": "Reidinger Julia",
         "year": "2017_WS",
 	"info": "works in Chrome,Edge,FF",
         "status": 1
-    },
-	{
+      },
+      {
         "title": "2D_RPG",
         "folder": "2D_RPG",
         "author": "Marcus Gründlinger",
         "year": "2017_WS",
         "status": 0
-},
-{
+      },
+      {
 	"title": "Haunting_School",
 	"folder": "Haunting_School_WGL",
 	"author": "Ingrid Lehner",
 	"year": "2017_WS",
 	"info": "works in Chrome,Edge,FF",
 	"status": 1
-},
-    {  
+     },
+     {  
         "title": "BottleFlip2D",
         "folder": "BF2DExport",
         "author": "--censored-- AD",
