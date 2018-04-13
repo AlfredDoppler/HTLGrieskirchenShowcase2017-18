@@ -1,11 +1,11 @@
-﻿[
+1﻿[
     {
         "title": "SweeperMine",
         "folder": "SweeperMine",
         "author": "David Märzendorfer",
         "year": "2017_SS",
 	"info": "works in Edge",
-        "status": 0
+        "status": 1
     },
     {
         "title": "PinkBoxShooter",
