@@ -158,5 +158,30 @@
 		"author": "Danirami",
 		"year": "2017_WS",
 		"status": "1"
+    },
+   
+    {
+        "title": "Digimon",
+        "folder": "WebGL Digimon",
+        "author": "Philip Frauscher, Sebastian Mandl",
+        "year": "2018_SS",
+	    "info": "WebGL version not operating as levels are not found",
+        "status": -1
+    },
+    {
+        "title": "SweeperMine",
+        "folder": "SweeperMine",
+        "author": "David Märzendorfer",
+        "year": "2018_SS",
+	    "info": "works in Edge",
+        "status": 1
+    },	
+    {  
+		"title": "Penthouse",
+		"folder": "Penthouse",
+		"author": "Michael Duschek",
+		"year": "2018_SS",
+		"info": "An Architecture Simulator",
+		"status": "1"
     }
 ]
