@@ -1,42 +1,18 @@
 [
-     {
-        "title": "BaseDefender",
-        "folder": "BaseDefender",
-        "author": "Samuel Köpf, David Märzendorfer, Martin Reisinger",
-        "year": "2018_SS",
-	"info": "works in Edge, xBox Controller required, Shoot doesnt work",
-        "status": 0
-    },
-    {
-        "title": "SweeperMine",
-        "folder": "SweeperMine",
-        "author": "David Märzendorfer",
-        "year": "2018_SS",
-	"info": "works in Edge",
-        "status": 1
-    },
     {
         "title": "PinkBoxShooter",
         "folder": "PinkBoxShooterFirstStatus",
         "author": "Martin Reisinger, Samuel Köpf, David Märzendorfer",
         "year": "2017_WS",
-	"info": "works in Edge",
+	    "info": "works in Edge",
         "status": 0
-    },
-    {
-        "title": "Digimon",
-        "folder": "WebGL Digimon",
-        "author": "Philip Frauscher, Sebastian Mandl",
-        "year": "2018_SS",
-	    "info": "WebGL version not operating as levels are not found",
-        "status": -1
     },
     {
         "title": "JumpNRun",
         "folder": "JumpNRun",
         "author": "Michael Wagner",
         "year": "2017_WS",
-	"info": "works in Chrome,Edge,FF",
+	    "info": "works in Chrome,Edge,FF",
         "status": 1
     },
     {
@@ -51,152 +27,136 @@
         "folder": "PokémonFallout",
         "author": "Robert Ortner",
         "year": "2017_WS",
-	"info": "works in Chrome,Edge,FF",
+	    "info": "works in Chrome,Edge,FF",
         "status": 1
     },
     {
-	"title": "Space Odysee",
-	"folder": "SpaceOdysee",
-	"author": "Raphael Panic",
-	"year": "2017_WS",
-	"info": "works in Chrome,Edge,FF",
-	"status": 1
+		"TITLE": "SPACE ODYSEE",
+		"FOLDER": "SPACEODYSEE",
+		"AUTHOR": "RAPHAEL PANIC",
+		"YEAR": "2017_WS",
+		"INFO": "WORKS IN CHROME,EDGE,FF",
+		"STATUS": 1
     },
     {
-	"title": "Mega Dario",
-	"folder": "MegaDario",
-	"author": "Lukas Ratzenböck",
-	"year": "2017_WS",
-	"info": "works in Chrome,Edge,FF",
-	"status": 0
+		"title": "Mega Dario",
+		"folder": "MegaDario",
+		"author": "Lukas Ratzenböck",
+		"year": "2017_WS",
+		"info": "works in Chrome,Edge,FF",
+		"status": 0
     },
     {
-	 "title": "FGMOBA",
-         "folder": "FGMOBA",
-         "author": "Stefan Lehner",
-         "year": "2017_WS",
-	 "info": "WebGL cannot be server for multiplayer games",
-         "status": -1
+		"title": "FGMOBA",
+		"folder": "FGMOBA",
+		"author": "Stefan Lehner",
+		"year": "2017_WS",
+		"info": "WebGL cannot be server for multiplayer games",
+		"status": -1
     },
     {
-        "title": "oss",
-        "folder": "oss",
-        "author": "Andreas Zauner",
-        "year": "2017_WS",
-        "status": 0
+		"title": "oss",
+		"folder": "oss",
+		"author": "Andreas Zauner",
+		"year": "2017_WS",
+		"status": 0
     },
     {
-	"title": "Super Splasher Bruhs",
-	"folder": "SSB",
-	"author": "Benedikt Simetsberger",
-	"year": "2017_WS",
-	"info": "A very good 2d platform based fighting game; works in Chrome,Edge,FF",
-	"status": "1"
+		"title": "Super Splasher Bruhs",
+		"folder": "SSB",
+		"author": "Benedikt Simetsberger",
+		"year": "2017_WS",
+		"info": "A very good 2d platform based fighting game; works in Chrome,Edge,FF",
+		"status": "1"
     },
     {
-        "title": "CupKopf",
-        "folder": "CupKopfWebGl",
-        "author": "Daniel Etzinger",
-        "year": "2017_WS",
-        "info": "fehlt?",
-        "status": 0
-     },
-     {
-	 "title": "IGPG",
-         "folder": "IGPGWebGL",
-         "author": "Florian Hintermaier",
-         "year": "2017_WS",
-         "status": 0
-      },
-      {
-	"title": "ZombieShooter",
-	"folder": "ZombieShooterWebGL",
-	"author": "Christian Lindner",
-	"year": "2017_WS",
-	"status": 0
-      },
-      {
-        "title": "Realistic Imunsystem",
-        "folder": "Realistic_Imunsystem",
-        "author": "Stefan Rupertsberger",
-        "year": "2017_WS",
-        "status": 0
-     },
-     {
-        "title": "FLAPPER_BYRD",
-        "folder": "flapper",
-        "author": "Roman Groiss",
-        "year": "2017_WS",
-        "status": 0
-      },
-      {
-        "title": "SuperRaveBoy",
-        "folder": "SuperRaveBoyWeb",
-        "author": "Adrian Haiser",
-        "year": "2017_WS",
-	"info": "works in Chrome,Edge,FF",
-        "status": 1
-      },
-      {
-        "title": "ElShrooms",
-        "folder": "ElShrooms",
-        "author": "Reidinger Julia",
-        "year": "2017_WS",
-	"info": "works in Chrome,Edge,FF",
-        "status": 1
-      },
-      {
-        "title": "2D_RPG",
-        "folder": "2D_RPG",
-        "author": "Marcus Gründlinger",
-        "year": "2017_WS",
-        "status": 0
-      },
-      {
-	"title": "Haunting_School",
-	"folder": "Haunting_School_WGL",
-	"author": "Ingrid Lehner",
-	"year": "2017_WS",
-	"info": "works in Chrome,Edge,FF",
-	"status": 1
-     },
-     {  
-        "title": "BottleFlip2D",
-        "folder": "BF2DExport",
-        "author": "--censored-- AD",
-        "year": "2017_WS",
-        "info": "des game is lit",
-        "status": "0"
+		"title": "CupKopf",
+		"folder": "CupKopfWebGl",
+		"author": "Daniel Etzinger",
+		"year": "2017_WS",
+		"info": "fehlt?",
+		"status": 0
+    },
+    {
+		"title": "IGPG",
+		"folder": "IGPGWebGL",
+		"author": "Florian Hintermaier",
+		"year": "2017_WS",
+		"status": 0
+    },
+    {
+		"title": "ZombieShooter",
+		"folder": "ZombieShooterWebGL",
+		"author": "Christian Lindner",
+		"year": "2017_WS",
+		"status": 0
+    },
+    {
+		"title": "Realistic Imunsystem",
+		"folder": "Realistic_Imunsystem",
+		"author": "Stefan Rupertsberger",
+		"year": "2017_WS",
+		"status": 0
+    },
+    {
+		"title": "FLAPPER_BYRD",
+		"folder": "flapper",
+		"author": "Roman Groiss",
+		"year": "2017_WS",
+		"status": 0
+    },
+    {
+		"title": "SuperRaveBoy",
+		"folder": "SuperRaveBoyWeb",
+		"author": "Adrian Haiser",
+		"year": "2017_WS",
+		"info": "works in Chrome,Edge,FF",
+		"status": 1
+    },
+    {
+		"title": "ElShrooms",
+		"folder": "ElShrooms",
+		"author": "Reidinger Julia",
+		"year": "2017_WS",
+		"info": "works in Chrome,Edge,FF",
+		"status": 1
+    },
+    {
+		"title": "2D_RPG",
+		"folder": "2D_RPG",
+		"author": "Marcus Gründlinger",
+		"year": "2017_WS",
+		"status": 0
+    },
+    {
+		"title": "Haunting_School",
+		"folder": "Haunting_School_WGL",
+		"author": "Ingrid Lehner",
+		"year": "2017_WS",
+		"info": "works in Chrome,Edge,FF",
+		"status": 1
     },
     {  
-        "title": "BlockDodger",
-        "folder": "BlockDogerWebBuild",
-        "author": "LukasSchlogaZareh",
-        "year": "2017_WS",
-	"info": "works in Chrome,Edge,FF",
-        "status": "1"
-    },
-    {
-	"title": "TwinStickShooter",
-        "folder": "TwinStickShooter",
-        "author": "Danirami",
-        "year": "2017_WS",
-        "status": "1"
-    },
-    {
-        "title": "Five Kingdoms",
-	"folder": "02-03-18 Build Five Kingdoms",
-	"author": "Leonard Pratt",
-	"year": "2017_WS",
-	"info": "Incomplete top down Danmaku with story",
-        "status": "0"
+		"title": "BottleFlip2D",
+		"folder": "BF2DExport",
+		"author": "--censored-- AD",
+		"year": "2017_WS",
+		"info": "des game is lit",
+		"status": "0"
     },
     {  
-        "title": "Penthouse",
-        "folder": "Penthouse",
-        "author": "Michael Duschek",
-        "year": "2018_SS",
-        "info": "An Architecture Simulator",
-        "status": "1"
+		"title": "BlockDodger",
+		"folder": "BlockDogerWebBuild",
+		"author": "LukasSchlogaZareh",
+		"year": "2017_WS",
+		"info": "works in Chrome,Edge,FF",
+		"status": "1"
+    },
+    {
+		"title": "TwinStickShooter",
+		"folder": "TwinStickShooter",
+		"author": "Danirami",
+		"year": "2017_WS",
+		"status": "1"
     }
 ]
