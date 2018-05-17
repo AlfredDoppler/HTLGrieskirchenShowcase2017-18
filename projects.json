@@ -159,7 +159,22 @@
 		"year": "2017_WS",
 		"status": "1"
     },
-   
+    {
+		"title": "Five Kingdoms",
+		"folder": "02-03-18 Build Five Kingdoms",
+		"author": "Leonard Pratt",
+		"year": "2017_WS",
+		"info": "Incomplete top down Danmaku with story",
+		"status": "0"
+    },
+     {
+        "title": "BaseDefender",
+        "folder": "BaseDefender",
+        "author": "Samuel Köpf, David Märzendorfer, Martin Reisinger",
+        "year": "2018_SS",
+	    "info": "works in Edge, xBox Controller required, Shoot doesnt work",
+        "status": 0
+    },
     {
         "title": "Digimon",
         "folder": "WebGL Digimon",
