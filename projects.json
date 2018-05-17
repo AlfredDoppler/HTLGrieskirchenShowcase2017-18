@@ -1,9 +1,17 @@
 1﻿[
+     {
+        "title": "BaseDefender",
+        "folder": "BaseDefender",
+        "author": "Samuel Köpf, David Märzendorfer, Martin Reisinger",
+        "year": "2018_SS",
+	"info": "works in Edge, xBox Controller required, Shoot doesnt work",
+        "status": 0
+    },
     {
         "title": "SweeperMine",
         "folder": "SweeperMine",
         "author": "David Märzendorfer",
-        "year": "2017_SS",
+        "year": "2018_SS",
 	"info": "works in Edge",
         "status": 1
     },
