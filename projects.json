@@ -206,11 +206,18 @@
 	    "year": "2018_SS",
 	    "info": "Partly working",
 	    "status": "0"
-    }
+    },
 	{
 		"title": "BlackHole",
 		"folder": "WebGLBlackHole",
 		"author": "Florian Hintermaier",
+		"year": "2018_SS",
+		"status": 1
+    },
+	{
+		"title": "Doom",
+		"folder": "MyDoom",
+		"author": "Benedikt Simetsberger",
 		"year": "2018_SS",
 		"status": 1
     },
