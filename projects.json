@@ -207,4 +207,11 @@
 	    "info": "Partly working",
 	    "status": "0"
     }
+	{
+		"title": "BlackHole",
+		"folder": "WebGLBlackHole",
+		"author": "Florian Hintermaier",
+		"year": "2018_SS",
+		"status": 1
+    },
 ]
