@@ -198,5 +198,13 @@
 		"year": "2018_SS",
 		"info": "An Architecture Simulator",
 		"status": "1"
+    },
+    {
+	    "title": "SimpleShooter",
+	    "folder": "SimpleShooterWebGL",
+	    "author": "Christian Lindner",
+	    "year": "2018_SS",
+	    "info": "Partly working",
+	    "status": "0"
     }
 ]
