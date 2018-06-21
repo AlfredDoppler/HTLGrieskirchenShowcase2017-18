@@ -199,4 +199,11 @@
 		"info": "An Architecture Simulator",
 		"status": "1"
     }
+	{
+		"title": "BlackHole",
+		"folder": "WebGLBlackHole",
+		"author": "Florian Hintermaier",
+		"year": "2018_SS",
+		"status": 1
+    },
 ]
