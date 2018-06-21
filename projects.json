@@ -221,4 +221,11 @@
 		"year": "2018_SS",
 		"status": 1
     },
+	{
+		"title": "StraußLabyrinth",
+		"folder": "strausslabyrinth",
+		"author": "Roman Groiss",
+		"year": "2018_SS",
+		"status": 1
+    },
 ]
