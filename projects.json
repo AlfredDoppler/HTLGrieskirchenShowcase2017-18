@@ -200,6 +200,14 @@
 		"status": "1"
     },
     {
+         "title": "Wave Spawner",
+         "folder": "Wave Spawner",
+         "author": "Stefan Lehner",
+         "year": "2018_SS",
+ 	    "info": "fullscreen is broken",
+         "status": 1
+    },
+    {
 	    "title": "SimpleShooter",
 	    "folder": "SimpleShooterWebGL",
 	    "author": "Christian Lindner",
