@@ -97,5 +97,12 @@
         "author": "Adrian Haiser",
         "year": "2018",
         "status": 1
-    }
+    },
+	{
+        "title": "AgeOfTanks",
+        "folder": "AgeOfTanks",
+        "author": "Marcus Gründlinger",
+        "year": "2018",
+        "status": 1
+}
 ]
