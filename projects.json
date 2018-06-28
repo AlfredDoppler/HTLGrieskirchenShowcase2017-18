@@ -278,5 +278,12 @@
 		"author": "Julia Reidinger",
 		"year": "2018_SS",
 		"status": 1
+	},
+	{
+		"title": "AgeOfTanks",
+		"folder": "AgeOfTanks",
+		"author": "Marcus Gründlinger",
+		"year": "2018_SS",
+		"status": 1
 	}
 ]
