@@ -13,6 +13,14 @@
         "year": "2018",
         "status": 0
     },
+	
+	{
+        "title": "RacingGame",
+        "folder": "Racinggame",
+        "author": "Maximilian Schwarz",
+        "year": "2018",
+        "status": 1
+    },
      {
         "title": "Pokémon Fallout",
         "folder": "PokémonFallout",
