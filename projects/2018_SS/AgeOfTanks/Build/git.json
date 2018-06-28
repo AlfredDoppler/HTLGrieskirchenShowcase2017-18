@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "git.data.unityweb",
+"asmCodeUrl": "git.asm.code.unityweb",
+"asmMemoryUrl": "git.asm.memory.unityweb",
+"asmFrameworkUrl": "git.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
