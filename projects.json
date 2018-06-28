@@ -1,4 +1,12 @@
 [
+	{
+        "title": "WorldInWhichYouCanPlaceBlocks",
+        "folder": "WorldInWhichYouCanPlaceBlocks",
+        "author": "Adrian Haiser",
+        "year": "2018",
+	    "info": "-",
+        "status": 0
+    },
     {
         "title": "PinkBoxShooter",
         "folder": "PinkBoxShooterFirstStatus",
