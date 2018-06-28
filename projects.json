@@ -242,5 +242,12 @@
 		"author": "Andreas Zauner",
 		"year": "2018_SS",
 		"status": 1
-    }
+    },
+	{
+		"title": "DesertShooter",
+		"folder": "DesertShooter",
+		"author": "Lukas Ratzenböck",
+		"year": "2018_SS",
+		"status": 1
+	}
 ]
